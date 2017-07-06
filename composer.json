@@ -1,0 +1,13 @@
+{
+    "name": "favoriabs/subset",
+    "description": "Return subset of a string by passing a percentage value",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Favor",
+            "email": "favoriabs@gmail.com"
+        }
+    ],
+    "require": {}
+}
